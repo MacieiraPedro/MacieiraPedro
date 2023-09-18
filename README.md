@@ -1,6 +1,6 @@
 ## Olá eu sou Pedro Macieira!!
 
-## Aqui você irá encontrar estudos e situações práticas do dia a dia do mercado financeiro traduzidas em python!!
+Aqui você irá encontrar estudos e situações práticas do dia a dia do mercado financeiro traduzidas em python!!
 <div style="display: inline_block"><br>
 
   <img align="center" alt="pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
