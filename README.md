@@ -1,4 +1,4 @@
-## Olá eu sou Pedro Macieira, trabalho na área de analise de riscos de mercado e aqui você encontra o dia a dia do mercado financeiro traduzido em python e metodologias quantitativas!!!!
+## Olá eu sou Pedro Macieira!!
 <div style="display: inline_block"><br>
 
   <img align="center" alt="pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
